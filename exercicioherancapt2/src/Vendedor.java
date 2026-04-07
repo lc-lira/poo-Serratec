@@ -1,0 +1,4 @@
+public class Vendedor {
+    protected String nome;
+    protected String cpf;
+}
